@@ -1,0 +1,12 @@
+# everything the dashboard exports (WAV, MAT, PNG, MP4)
+software/recordings/
+
+# MATLAB / editor / OS clutter
+*.asv
+*.autosave
+*.m~
+.DS_Store
+Thumbs.db
+
+# archives
+*.zip
